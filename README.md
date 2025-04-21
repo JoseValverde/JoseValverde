@@ -1,22 +1,25 @@
-## Hi there, my name is José Valverde! 👋
+## Hola, soy José Valverde! 👋
 
-# 💫 About Me:
+# 💫 Sobre mi:
 
-🔭 I’m currently working as Art Director at The Twisted Housed
+🔭 Actualmente estoy trabajando como director de Arte en The Twisted House y Coordinador de IT en Nosolorol Ediciones
 
-👯 I’m looking to collaborate on 
+👯 Busco colaborar con artistas visuales de Nuevos Medios
 
-🤝 I’m looking for help with 
+🤝 Puedo ayudarte con soluciones creativas y técnicas para tus proyectos e instalaciones
 
-🌱 I’m currently learning Full Stack Web Development in a IronHack Bootcamp
+🌱 En este momento estoy estudiando Full Stack Web Development e Ingles (B1)
 
-⚡ I love participating in Game Jams!
+⚡ Me encanta exponer y enseñar mis obras virtuales
 
-🌐 Socials:
-LinkedIn
+# 🌐 Socials:
+LinkedIn: https://www.linkedin.com/in/jagvalverde/
 
-💻 Tech Stack:
-C# C++ Unity UE JavaScript React Python CSS3 HTML5 Markdown Adobe Photoshop Canva Blender
+# 💻 Tech Stack:
+HTML5, CSS3, JS, Bootstraps, JavaScript, Python, Markdown, Blender, Adobre Creative (After Effect, Premiere, Audictions, Photoshop), Processing, Wordpress, Prestashop, JQuery, Reapers, Sonic Pi, Touchdesigner, Madmapper, R, Resolume, Arduino, Electrónica digital, GIT, Godot
+
+# 📫 Aprendiendo: 
+React, TypeScript, AngularJS, Vue, IA
 
 <!--
 **JoseValverde/JoseValverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
