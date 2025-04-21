@@ -1,10 +1,15 @@
 ## Hi there, my name is José Valverde! 👋
 
 # 💫 About Me:
-🔭 I’m currently working as 
+
+🔭 I’m currently working as Art Director at The Twisted Housed
+
 👯 I’m looking to collaborate on 
+
 🤝 I’m looking for help with 
+
 🌱 I’m currently learning Full Stack Web Development in a IronHack Bootcamp
+
 ⚡ I love participating in Game Jams!
 
 🌐 Socials:
