@@ -2,7 +2,7 @@
 
 # 💫 Sobre mi:
 
-🔭 Actualmente estoy trabajando como director de Arte en The Twisted House y Coordinador de IT en Nosolorol Ediciones
+🔭 Actualmente estoy trabajando como director de Arte y Artista de New Media.
 
 👯 Busco colaborar con artistas visuales de Nuevos Medios
 
