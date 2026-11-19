@@ -10,7 +10,7 @@
 
 ## 💫 Sobre mí
 
-Vivo entre Madrid y Granada y trabajo en la intersección entre arte y tecnología: instalaciones interactivas, performance audiovisual en directo, arte generativo y animación 3D. He expuesto en el Museo Reina Sofía, La Casa Encendida y Matadero Madrid.
+Vivo entre Madrid y Granada y trabajo en la intersección entre arte y tecnología: instalaciones interactivas, performance audiovisual en directo, arte generativo y animación 3D. He expuesto en el Museo Reina Sofía, Círculo de Bellas Artes, La Casa Encendida y Matadero Madrid.
 
 - 🔭 Trabajo como director de arte y artista de Nuevos Medios
 - 🤝 Aporto soluciones creativas y técnicas para proyectos e instalaciones
